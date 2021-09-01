@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi, my name Sebastian Ramirez 👋
 
+  - I'm a sowftware developer :sunglasses:
+  - I'm currently workingn on Java and kotlin android mobile :alien:
+  - I'm learning Html, javaScript and css for web development :computer:
+  - How to reach me: [linkedin](https://www.linkedin.com/in/juan-sebasti%C3%A1n-ram%C3%ADrez-mendoza-677717139/) :incoming_envelope:
+  
 <!--
 **JuanRamirezMendoza/JuanRamirezMendoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
