@@ -7,8 +7,8 @@
 
 ## Skills:
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DOC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)
-![Java](https://img.shields.io/badge/Java-E61A1F?style=for-the-badge&logo=java&logoColor=white&labelColor=345FA4)
-![kotlin](https://img.shields.io/badge/kotlin-F2860C?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=345FA4)</br>
+![Java](https://img.shields.io/badge/Java-E61A1F?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)
+![kotlin](https://img.shields.io/badge/kotlin-F2860C?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)</br>
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()</br>
 [![MySQL](https://img.shields.io/badge/MySQL-345FA4?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()</br>
 [![HTML5](https://img.shields.io/badge/html5-DB5D26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
